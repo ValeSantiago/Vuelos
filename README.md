@@ -5,4 +5,5 @@ Julieta Blanco Zavala<br>
 Valentina Santiago Villegas<br>
 Hannali Bugos Veneroso<br>
 Leyla Aurora Arreola Galarza<br>
-Keyla Jiménez<br>
+Keila Anahí Jiménez Ramirez<br>
+Lidia Jaramillo Vázquez <br>
