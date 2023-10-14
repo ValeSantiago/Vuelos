@@ -4,4 +4,4 @@ Karla Itzel Villegas Salazar
 Julieta Blanco Zavala
 Valentina Santiago Villegas
 Hannali Bugos Veneroso
-Keyla
+Leyla Aurora Arreola Galarza
