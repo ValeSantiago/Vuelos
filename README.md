@@ -1,7 +1,8 @@
 # Vuelos
-Proyecto que se realiza en el marco del programa Mujer Digital, grupo 4: 
-Karla Itzel Villegas Salazar
-Julieta Blanco Zavala
-Valentina Santiago Villegas
-Hannali Bugos Veneroso
-Leyla Aurora Arreola Galarza
+Proyecto que se realiza en el marco del programa Mujer Digital, grupo 4: <br>
+Karla Itzel Villegas Salazar<br>
+Julieta Blanco Zavala<br>
+Valentina Santiago Villegas<br>
+Hannali Bugos Veneroso<br>
+Leyla Aurora Arreola Galarza<br>
+Keyla Jiménez<br>
